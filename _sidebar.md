@@ -32,7 +32,7 @@
 
 - **JVM**
 
-  - [动态代理](./docs/JVM.md)
+  - [JVM](./docs/JVM.md)
 
 - **Redis**
 
