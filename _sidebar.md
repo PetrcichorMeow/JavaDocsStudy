@@ -40,7 +40,7 @@
 
 - **Spring**
 
-  - [spring基础](./docs/Spring.md)
+  - [spring基础](./docs/spring.md)
 
 - **SpringBoot**
 
